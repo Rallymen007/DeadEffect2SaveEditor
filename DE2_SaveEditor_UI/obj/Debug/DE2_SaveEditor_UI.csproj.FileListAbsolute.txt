@@ -1,0 +1,11 @@
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\bin\Debug\DE2_SaveEditor_UI.exe.config
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\bin\Debug\DE2_SaveEditor_UI.exe
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\bin\Debug\DE2_SaveEditor_UI.pdb
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\bin\Debug\DataParsing.dll
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\bin\Debug\DataParsing.pdb
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\obj\Debug\DE2_SaveEditor_UI.csprojResolveAssemblyReference.cache
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\obj\Debug\DE2_SaveEditor_UI.Form1.resources
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\obj\Debug\DE2_SaveEditor_UI.Properties.Resources.resources
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\obj\Debug\DE2_SaveEditor_UI.csproj.GenerateResource.Cache
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\obj\Debug\DE2_SaveEditor_UI.exe
+F:\dl\DE2 Save Editor\DE2_SaveEditor_UI\obj\Debug\DE2_SaveEditor_UI.pdb

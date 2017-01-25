@@ -1,0 +1,5 @@
+F:\dl\DE2 Save Editor\DataParsing\obj\Debug\DataParsing.csprojResolveAssemblyReference.cache
+F:\dl\DE2 Save Editor\DataParsing\bin\Debug\DataParsing.dll
+F:\dl\DE2 Save Editor\DataParsing\bin\Debug\DataParsing.pdb
+F:\dl\DE2 Save Editor\DataParsing\obj\Debug\DataParsing.dll
+F:\dl\DE2 Save Editor\DataParsing\obj\Debug\DataParsing.pdb
